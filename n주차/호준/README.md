@@ -1,3 +1,0 @@
-# AlgoStudy
-
-test
