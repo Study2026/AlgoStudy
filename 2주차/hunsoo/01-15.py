@@ -1,6 +1,6 @@
 # https://www.acmicpc.net/problem/7453
 
-# 투 포인터 + 분할 정복
+# 투 포인터 + Divide & Conquer
 
 import sys
 input = sys.stdin.readline
